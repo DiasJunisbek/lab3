@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/navigation_profile"
+    android:icon="@drawable/home_button"
+    android:title="profile page">
+</item>
+
+<item
+    android:id="@+id/navigation_saved"
+    android:icon="@drawable/like_button"
+    android:title="saved">
+</item>
+
+
+    <item
+        android:id="@+id/navigation_notification"
+        android:icon="@drawable/uvod_button"
+        android:title="notification">
+    </item>
+
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/zvezda_button"
+        android:title="favourites">
+    </item>
+</menu>
